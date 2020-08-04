@@ -50,7 +50,7 @@
 						<ul class="dropdown-menu">
 							<!-- dropdown-menu : 버튼을 눌렀을때, 생성되는 메뉴(접속하기를 눌렀을때 로그인, 회원가입 메뉴 -->
 						
-							<li class="active"><a href="login.jsp">로그인</a></li>
+							<li class=""><a href="login.jsp">로그인</a></li>
 							<!-- active = 활성화 되었을때 로그인, 회원가입-->
 							
 							<li><a href="join.jsp">회원가입</a></li>
